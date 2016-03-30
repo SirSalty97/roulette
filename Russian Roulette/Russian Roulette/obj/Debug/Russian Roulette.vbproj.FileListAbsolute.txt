@@ -1,0 +1,11 @@
+c:\users\sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.vbprojResolveAssemblyReference.cache
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Resources.resources
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.vbproj.GenerateResource.Cache
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.xml
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.pdb
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.xml
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Form1.resources
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
