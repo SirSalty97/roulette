@@ -9,3 +9,7 @@ C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roul
 C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian_Roulette.Form1.resources
 C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
 C:\Users\Sam\documents\visual studio 2015\Projects\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
+\\telmar\users\SG018\Desktop\GitHub\roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+\\telmar\users\SG018\Desktop\GitHub\roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+\\telmar\users\SG018\Desktop\GitHub\roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.xml
+\\telmar\users\SG018\Desktop\GitHub\roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
