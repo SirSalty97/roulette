@@ -96,25 +96,26 @@
 
     Private Sub btnNext_Click(sender As Object, e As EventArgs) Handles btnNext.Click
         pbYou.Image = My.Resources.title
-        btnLoadSpin.Enabled = True
         shotsAway = 2
         lblChances.Text = shotsAway
+        btnLoadSpin.Enabled = True
         btnNext.Visible = False
         chamber(bulletNum) = False
+        btnSave.Visible = False
     End Sub
 
     Private Sub btnAgain_Click(sender As Object, e As EventArgs) Handles btnAgain.Click
         pbYou.Image = My.Resources.title
-        btnLoadSpin.Enabled = True
         shotsAway = 2
         lblChances.Text = shotsAway
-        btnNext.Visible = False
         score = 0
         lblScore.Text = score
         txtName.Text = ""
         txtName.Enabled = True
+        btnNext.Visible = False
         chamber(bulletNum) = False
         btnAgain.Visible = False
+        btnSave.Visible = False
     End Sub
 
     Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
@@ -130,6 +131,6 @@
     End Sub
 
     Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSave.Click
-
+        MsgBox("Save feature coming soon.")
     End Sub
 End Class
